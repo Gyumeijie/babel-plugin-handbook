@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "webpack": "^4.19.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
